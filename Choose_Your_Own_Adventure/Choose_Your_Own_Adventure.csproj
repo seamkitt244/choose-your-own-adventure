@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,72 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Creaking Door Spooky-SoundBible.com-1909842345.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title Choose your own.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\title_Choose your own adventure.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Typewriter And Bell-SoundBible.com-1617309843.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scene15_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scene0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scene1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clothes Dryer-SoundBible.com-962232937.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\startBlue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\don%27tStart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\non.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yesas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\study.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\videoGames.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pizza.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cheese.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pepper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
