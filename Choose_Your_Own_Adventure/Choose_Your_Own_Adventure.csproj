@@ -108,12 +108,6 @@
     <None Include="Resources\Scene1.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\scene3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scene4.png" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\Clothes Dryer-SoundBible.com-962232937.wav" />
   </ItemGroup>
   <ItemGroup>
@@ -145,6 +139,69 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\scene2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene17-19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\podcast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playlist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene13-14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dontstop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene 40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chopwood.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setchairs.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
