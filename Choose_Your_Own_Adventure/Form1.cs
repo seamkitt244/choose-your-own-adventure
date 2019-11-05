@@ -405,6 +405,10 @@ namespace Choose_Your_Own_Adventure
                     leftPictureBox.Visible = false;
                     middlePictureBox.Visible = false;
                     gameLabel.Text = "You go to the shed and grab the can of gas with James and come and fill the car up with gas. ";
+                    gamePictureBox.BackgroundImage = (Properties.Resources.scene25);
+                    leftPictureBox.BackgroundImage = Properties.Resources.yes;
+                    middlePictureBox.BackgroundImage = Properties.Resources.no;
+                    break;
                     break;
                 case 28:
                     leftPictureBox.Visible = true;
