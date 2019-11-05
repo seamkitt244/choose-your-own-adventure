@@ -203,5 +203,44 @@
   <ItemGroup>
     <None Include="Resources\setchairs.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sad_Trombone-Joe_Lamb-665429450.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chairs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\axe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gas can.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene23.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene24.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rushhour.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fulelight.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\muddy prints.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene30.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene31.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene32.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
