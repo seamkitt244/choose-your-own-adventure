@@ -242,5 +242,26 @@
   <ItemGroup>
     <None Include="Resources\scene32.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene37.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene33.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene34.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene36.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene38.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scene39.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

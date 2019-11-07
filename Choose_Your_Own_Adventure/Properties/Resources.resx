@@ -223,6 +223,27 @@
   <data name="scene32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\scene32.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="scene33" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scene33.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scene34" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scene34.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scene35" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scene35.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scene36" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scene36.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scene37" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scene37.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scene38" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scene38.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scene39" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scene39.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="scene4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\scene4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
